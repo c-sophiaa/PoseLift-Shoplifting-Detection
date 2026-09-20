@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# ML model/checkpoint files
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+
+# Large/raw media
+*.mp4
+*.avi
+*.mov
+
+# Generated data
+*.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
